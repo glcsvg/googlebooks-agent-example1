@@ -1,5 +1,8 @@
 # Google Books API Agents Example
 
+![Alt text](image.png)
+
+
 This project demonstrates an application that uses OpenAI and Google Books APIs to perform book searches and language detection. A simple user interface is provided using Streamlit.
 
 ## Project Overview
